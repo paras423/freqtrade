@@ -1,0 +1,5 @@
+{
+    "timeframe": "15m",
+    "strategy": "Bandtastic",
+    "hyperopt_loss": "SharpeHyperOptLoss"
+}
